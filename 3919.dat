@@ -1,0 +1,217 @@
+302	Can add exh page blocks	100	add_exhpageblocks
+303	Can change exh page blocks	100	change_exhpageblocks
+304	Can delete exh page blocks	100	delete_exhpageblocks
+230	Can add book space carousel item	78	add_bookspacecarouselitem
+231	Can change book space carousel item	78	change_bookspacecarouselitem
+232	Can delete book space carousel item	78	delete_bookspacecarouselitem
+236	Can add blog index page carousel item	80	add_blogindexpagecarouselitem
+237	Can change blog index page carousel item	80	change_blogindexpagecarouselitem
+238	Can delete blog index page carousel item	80	delete_blogindexpagecarouselitem
+245	Can add event index page carousel item	83	add_eventindexpagecarouselitem
+246	Can change event index page carousel item	83	change_eventindexpagecarouselitem
+247	Can delete event index page carousel item	83	delete_eventindexpagecarouselitem
+248	Can add home page blocks	84	add_homepageblocks
+249	Can change home page blocks	84	change_homepageblocks
+250	Can delete home page blocks	84	delete_homepageblocks
+251	Can add about page blocks	85	add_aboutpageblocks
+252	Can change about page blocks	85	change_aboutpageblocks
+253	Can delete about page blocks	85	delete_aboutpageblocks
+257	Can add library page blocks	86	add_librarypageblocks
+258	Can change library page blocks	86	change_librarypageblocks
+259	Can delete library page blocks	86	delete_librarypageblocks
+260	Can add museum page blocks	87	add_museumpageblocks
+261	Can change museum page blocks	87	change_museumpageblocks
+262	Can delete museum page blocks	87	delete_museumpageblocks
+266	Can add membership request	88	add_membershiprequest
+267	Can change membership request	88	change_membershiprequest
+268	Can delete membership request	88	delete_membershiprequest
+269	Can add space request	89	add_spacerequest
+270	Can change space request	89	change_spacerequest
+271	Can delete space request	89	delete_spacerequest
+272	Can add contact message	90	add_contactmessage
+273	Can change contact message	90	change_contactmessage
+274	Can delete contact message	90	delete_contactmessage
+275	Can add member ship page carousel item	91	add_membershippagecarouselitem
+276	Can change member ship page carousel item	91	change_membershippagecarouselitem
+277	Can delete member ship page carousel item	91	delete_membershippagecarouselitem
+278	Can add member ship page	92	add_membershippage
+279	Can change member ship page	92	change_membershippage
+280	Can delete member ship page	92	delete_membershippage
+281	Can add temporary exhibition page carousel item	93	add_temporaryexhibitionpagecarouselitem
+282	Can change temporary exhibition page carousel item	93	change_temporaryexhibitionpagecarouselitem
+283	Can delete temporary exhibition page carousel item	93	delete_temporaryexhibitionpagecarouselitem
+284	Can add temp exhib page blocks	94	add_tempexhibpageblocks
+285	Can change temp exhib page blocks	94	change_tempexhibpageblocks
+286	Can delete temp exhib page blocks	94	delete_tempexhibpageblocks
+287	Can add perm exhib page blocks	95	add_permexhibpageblocks
+288	Can change perm exhib page blocks	95	change_permexhibpageblocks
+289	Can delete perm exhib page blocks	95	delete_permexhibpageblocks
+290	Can add permanent exhibition page carousel item	96	add_permanentexhibitionpagecarouselitem
+291	Can change permanent exhibition page carousel item	96	change_permanentexhibitionpagecarouselitem
+292	Can delete permanent exhibition page carousel item	96	delete_permanentexhibitionpagecarouselitem
+293	Can add permanent exhibition index	97	add_permanentexhibitionindex
+294	Can change permanent exhibition index	97	change_permanentexhibitionindex
+295	Can delete permanent exhibition index	97	delete_permanentexhibitionindex
+296	Can add temporary exhibition index	98	add_temporaryexhibitionindex
+297	Can change temporary exhibition index	98	change_temporaryexhibitionindex
+298	Can delete temporary exhibition index	98	delete_temporaryexhibitionindex
+7	Can access Wagtail admin	5	access_admin
+4	Can add document	3	add_document
+5	Can change document	3	change_document
+6	Can delete document	3	delete_document
+1	Can add image	2	add_image
+2	Can change image	2	change_image
+3	Can delete image	2	delete_image
+125	Can add about page	44	add_aboutpage
+126	Can change about page	44	change_aboutpage
+127	Can delete about page	44	delete_aboutpage
+134	Can add contact us page	47	add_contactuspage
+135	Can change contact us page	47	change_contactuspage
+136	Can delete contact us page	47	delete_contactuspage
+116	Can add library page	42	add_librarypage
+117	Can change library page	42	change_librarypage
+118	Can delete library page	42	delete_librarypage
+119	Can add home page	4	add_homepage
+120	Can change home page	4	change_homepage
+121	Can delete home page	4	delete_homepage
+110	Can add museum page	40	add_museumpage
+111	Can change museum page	40	change_museumpage
+112	Can delete museum page	40	delete_museumpage
+149	Can add form submission	52	add_formsubmission
+150	Can change form submission	52	change_formsubmission
+151	Can delete form submission	52	delete_formsubmission
+152	Can add redirect	53	add_redirect
+153	Can change redirect	53	change_redirect
+154	Can delete redirect	53	delete_redirect
+155	Can add embed	54	add_embed
+156	Can change embed	54	change_embed
+157	Can delete embed	54	delete_embed
+158	Can add user profile	55	add_userprofile
+159	Can change user profile	55	change_userprofile
+160	Can delete user profile	55	delete_userprofile
+164	Can add rendition	57	add_rendition
+165	Can change rendition	57	change_rendition
+166	Can delete rendition	57	delete_rendition
+167	Can add query	58	add_query
+168	Can change query	58	change_query
+169	Can delete query	58	delete_query
+170	Can add Query Daily Hits	59	add_querydailyhits
+171	Can change Query Daily Hits	59	change_querydailyhits
+172	Can delete Query Daily Hits	59	delete_querydailyhits
+173	Can add group collection permission	60	add_groupcollectionpermission
+174	Can change group collection permission	60	change_groupcollectionpermission
+175	Can delete group collection permission	60	delete_groupcollectionpermission
+182	Can add page view restriction	63	add_pageviewrestriction
+183	Can change page view restriction	63	change_pageviewrestriction
+184	Can delete page view restriction	63	delete_pageviewrestriction
+176	Can add group page permission	61	add_grouppagepermission
+177	Can change group page permission	61	change_grouppagepermission
+178	Can delete group page permission	61	delete_grouppagepermission
+179	Can add site	62	add_site
+180	Can change site	62	change_site
+181	Can delete site	62	delete_site
+185	Can add page	1	add_page
+186	Can change page	1	change_page
+187	Can delete page	1	delete_page
+191	Can add collection	65	add_collection
+192	Can change collection	65	change_collection
+193	Can delete collection	65	delete_collection
+188	Can add page revision	64	add_pagerevision
+189	Can change page revision	64	change_pagerevision
+190	Can delete page revision	64	delete_pagerevision
+194	Can add Tagged Item	66	add_taggeditem
+195	Can change Tagged Item	66	change_taggeditem
+196	Can delete Tagged Item	66	delete_taggeditem
+197	Can add Tag	67	add_tag
+198	Can change Tag	67	change_tag
+199	Can delete Tag	67	delete_tag
+200	Can add log entry	68	add_logentry
+201	Can change log entry	68	change_logentry
+202	Can delete log entry	68	delete_logentry
+203	Can add group	69	add_group
+204	Can change group	69	change_group
+205	Can delete group	69	delete_group
+206	Can add permission	70	add_permission
+207	Can change permission	70	change_permission
+208	Can delete permission	70	delete_permission
+209	Can add user	71	add_user
+210	Can change user	71	change_user
+211	Can delete user	71	delete_user
+212	Can add content type	72	add_contenttype
+213	Can change content type	72	change_contenttype
+214	Can delete content type	72	delete_contenttype
+215	Can add session	73	add_session
+216	Can change session	73	change_session
+217	Can delete session	73	delete_session
+68	Can add book space	26	add_bookspace
+69	Can change book space	26	change_bookspace
+70	Can delete book space	26	delete_bookspace
+74	Can add exhibition page	28	add_exhibitionpage
+75	Can change exhibition page	28	change_exhibitionpage
+76	Can delete exhibition page	28	delete_exhibitionpage
+71	Can add home page carousel item	27	add_homepagecarouselitem
+72	Can change home page carousel item	27	change_homepagecarouselitem
+73	Can delete home page carousel item	27	delete_homepagecarouselitem
+11	Can add library page carousel item	7	add_librarypagecarouselitem
+12	Can change library page carousel item	7	change_librarypagecarouselitem
+13	Can delete library page carousel item	7	delete_librarypagecarouselitem
+8	Can add about page carousel item	6	add_aboutpagecarouselitem
+9	Can change about page carousel item	6	change_aboutpagecarouselitem
+10	Can delete about page carousel item	6	delete_aboutpagecarouselitem
+17	Can add contact us page carousel item	9	add_contactuspagecarouselitem
+18	Can change contact us page carousel item	9	change_contactuspagecarouselitem
+19	Can delete contact us page carousel item	9	delete_contactuspagecarouselitem
+50	Can add museum page carousel item	20	add_museumpagecarouselitem
+51	Can change museum page carousel item	20	change_museumpagecarouselitem
+52	Can delete museum page carousel item	20	delete_museumpagecarouselitem
+92	Can add exhibition page carousel item	34	add_exhibitionpagecarouselitem
+93	Can change exhibition page carousel item	34	change_exhibitionpagecarouselitem
+94	Can delete exhibition page carousel item	34	delete_exhibitionpagecarouselitem
+14	Can add event page related link	8	add_eventpagerelatedlink
+15	Can change event page related link	8	change_eventpagerelatedlink
+16	Can delete event page related link	8	delete_eventpagerelatedlink
+20	Can add event page speaker	10	add_eventpagespeaker
+21	Can change event page speaker	10	change_eventpagespeaker
+22	Can delete event page speaker	10	delete_eventpagespeaker
+23	Can add form field	11	add_formfield
+24	Can change form field	11	change_formfield
+25	Can delete form field	11	delete_formfield
+35	Can add blog index page related link	15	add_blogindexpagerelatedlink
+36	Can change blog index page related link	15	change_blogindexpagerelatedlink
+37	Can delete blog index page related link	15	delete_blogindexpagerelatedlink
+38	Can add blog page tag	16	add_blogpagetag
+39	Can change blog page tag	16	change_blogpagetag
+40	Can delete blog page tag	16	delete_blogpagetag
+41	Can add blog page related link	17	add_blogpagerelatedlink
+42	Can change blog page related link	17	change_blogpagerelatedlink
+43	Can delete blog page related link	17	delete_blogpagerelatedlink
+53	Can add event index page related link	21	add_eventindexpagerelatedlink
+54	Can change event index page related link	21	change_eventindexpagerelatedlink
+55	Can delete event index page related link	21	delete_eventindexpagerelatedlink
+77	Can add blog page carousel item	29	add_blogpagecarouselitem
+78	Can change blog page carousel item	29	change_blogpagecarouselitem
+79	Can delete blog page carousel item	29	delete_blogpagecarouselitem
+95	Can add event page carousel item	35	add_eventpagecarouselitem
+96	Can change event page carousel item	35	change_eventpagecarouselitem
+97	Can delete event page carousel item	35	delete_eventpagecarouselitem
+107	Can add form page	39	add_formpage
+108	Can change form page	39	change_formpage
+109	Can delete form page	39	delete_formpage
+122	Can add blog page	43	add_blogpage
+123	Can change blog page	43	change_blogpage
+124	Can delete blog page	43	delete_blogpage
+128	Can add event page	45	add_eventpage
+129	Can change event page	45	change_eventpage
+130	Can delete event page	45	delete_eventpage
+143	Can add blog index page	50	add_blogindexpage
+144	Can change blog index page	50	change_blogindexpage
+145	Can delete blog index page	50	delete_blogindexpage
+146	Can add event index page	51	add_eventindexpage
+147	Can change event index page	51	change_eventindexpage
+148	Can delete event index page	51	delete_eventindexpage
+299	Can add collection view restriction	99	add_collectionviewrestriction
+300	Can change collection view restriction	99	change_collectionviewrestriction
+301	Can delete collection view restriction	99	delete_collectionviewrestriction
+\.
+
+
